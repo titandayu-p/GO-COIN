@@ -1,2 +1,2 @@
-##### LAPORAN TUGAS AKHIR
+##### LAPORAN TUGAS AKHIR align center
 ##### GRAFIKA KOMPUTER
